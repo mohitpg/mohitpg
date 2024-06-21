@@ -2,8 +2,9 @@
 Check out my recent projects:
 <br/><br/>
 
+- **[ChatLLAMA](https://github.com/mohitpg/chatllama)** :Web UI for my fine-tuned LLAMA2 model with text and voice prompt support
+- **[LLMs from scratch](https://github.com/mohitpg/LLMs-from-scratch)** :LLMs implemented from scratch in pytorch
 - **[Image Caption](https://github.com/mohitpg/imagecaption)** :An image captioning webapp 
-- **[ChatLLAMA](https://github.com/mohitpg/chatllama)** :Web UI for my fine-tuned LLAMA model with text and voice prompt support
 - **[Video Styler](https://github.com/mohitpg/VideoStyler)** : A webapp to perform neural style transfer on videos with easily accessible interface
 - **[Simple Text Extractor](https://github.com/mohitpg/SimpleTextExtractor)** : Text extraction program
 <br/>
