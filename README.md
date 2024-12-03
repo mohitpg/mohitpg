@@ -2,7 +2,7 @@
 Check out my recent projects:
 <br/><br/>
 
-- **[ChatLLAMA](https://github.com/mohitpg/chatllama)** :Web UI for my fine-tuned LLAMA2 model with text and voice prompt support
+- **[ChatLLAMA](https://github.com/mohitpg/chatllama)** :A web UI for my fine tuned LLAMA2 and Stable Diffusion model with RAG and voice prompt capabilities.
 - **[LLMs from scratch](https://github.com/mohitpg/LLMs-from-scratch)** :LLMs implemented from scratch in pytorch
 - **[Image Caption](https://github.com/mohitpg/imagecaption)** :An image captioning webapp 
 - **[Video Styler](https://github.com/mohitpg/VideoStyler)** : A webapp to perform neural style transfer on videos with easily accessible interface
