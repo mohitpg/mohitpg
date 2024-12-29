@@ -3,6 +3,7 @@ Check out my recent projects:
 <br/><br/>
 
 - **[ChatLLAMA](https://github.com/mohitpg/chatllama)** :A web UI for my fine tuned LLAMA2 and Stable Diffusion model with RAG and voice prompt capabilities.
+- **[RecommendationSystem](https://github.com/mohitpg/RecommendationSys)** :GNN recommendation system deployed on azure.
 - **[LLMs from scratch](https://github.com/mohitpg/LLMs-from-scratch)** :LLMs implemented from scratch in pytorch
 - **[Image Caption](https://github.com/mohitpg/imagecaption)** :An image captioning webapp 
 - **[Video Styler](https://github.com/mohitpg/VideoStyler)** : A webapp to perform neural style transfer on videos with easily accessible interface
